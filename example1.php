@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db   = 'futbol_app';
 $user = 'phpuser';
-$pass = 'PasswordSegura123!';
+$pass = 'ECollins123!';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
